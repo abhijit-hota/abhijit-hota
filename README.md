@@ -2,7 +2,7 @@
 <h3 align="center">An ever-learning web developer who likes to dive deep into web and cloud architecture. </h3>
 <h4 align="center"> Working hard to make all my WIP projects deserving enough to be made public (which includes a better README). =)</h4>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhijit-hota&show_icons=true" alt="abhijit-hota" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhijit-hota&show_icons=true&theme=dark" alt="abhijit-hota" /> </p>
 
 <p align="center">
 <a href="https://codepen.io/xdboy018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="xdboy018" height="20" width="20" /></a>
