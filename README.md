@@ -5,4 +5,4 @@
 
 Website: https://abhijithota.me
 
-[Codepen](https://codepen.io/kretaceous) | [Dev.to](https://dev.to/kretaceous) | [LinkedIn](https://linkedin.com/in/abhijit-hota)
+[Codepen](https://codepen.io/kretaceous) | [Dev.to](https://dev.to/kretaceous) | [LinkedIn](https://linkedin.com/in/abhijit-hota) | <a rel="me" href="https://hachyderm.io/@kretaceous">Mastodon</a>
