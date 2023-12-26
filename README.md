@@ -4,5 +4,3 @@
 - Mainly work with Go for systems/backend and Typescript/React for frontend.
 
 Website: https://abhijithota.me
-
-[Codepen](https://codepen.io/kretaceous) | [Dev.to](https://dev.to/kretaceous) | [LinkedIn](https://linkedin.com/in/abhijit-hota) | <a rel="me" href="https://hachyderm.io/@kretaceous">Mastodon</a>
